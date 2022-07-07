@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">        
   <h2>Hi there 👋</h2>
 <h3> 🔭 I’m currently working with</h3>
 <p><a href="https://babeljs.io/" target="_blank">
@@ -9,7 +9,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
 </p><hr/>
 <h2>on</h2>
-<a style="font-size: 36px;" href="https://aleks164.github.io/Life_after_diet/"><strong>Life after diet</strong></a>
+<a href="https://aleks164.github.io/Life_after_diet/"><strong> <span>&#8595;</span><span>&#8595;</span> Life after diet <span>&#8595;</span><span>&#8595;</span></strong></a>
 <hr/>
-<div style="font-size: 32px;"><span >&#8595;</span><span>&#8595;</span><span>&#8595;</span></div>
 </div>
