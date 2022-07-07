@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
 </p><hr/>
 <h2>on</h2>
-<a style="font-size: xx-large;" href="https://aleks164.github.io/Life_after_diet/"><strong>Life after diet</strong></a>
+<a style="font-size: 36px;" href="https://aleks164.github.io/Life_after_diet/"><strong>Life after diet</strong></a>
 <hr/>
+<div style="font-size: 32px;"><span >&#8595;</span><span>&#8595;</span><span>&#8595;</span></div>
 </div>
