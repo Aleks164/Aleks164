@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>### Hi there 👋</h2>
+  <h2>Hi there 👋</h2>
 <h3> 🔭 I’m currently working with</h3>
 <p><a href="https://babeljs.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> <a href="https://jestjs.io" target="_blank"> 
@@ -8,6 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
 </p><hr/>
-<p> on </p><hr/>
+<h2>on</h2>
 <a href="https://aleks164.github.io/Life_after_diet/">Life after diet</a>
+<hr/>
 </div>
