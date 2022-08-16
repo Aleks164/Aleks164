@@ -16,7 +16,12 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/> </a>  
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+  
+  </a>
+   <a href="https://mui.com/" target="_blank"> 
+  <img src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg" alt="material-ui" width="60" height="60"/> </a>
+  
   <p> 🔭 I’m currently working on</p>
 <a  href="https://aleks164.github.io/Life_after_diet/"><strong> <span>&#8595;</span><span>&#8595;</span> Life after diet <span >&#8595;</span><span>&#8595;</span></strong></a>
 <hr/>
